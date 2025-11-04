@@ -34,9 +34,6 @@ nearby-help-finder/
 ---
 
 ## 📲 Demo
-*<img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/318cb7c1-c4c1-466d-85cb-af96fb8cfcf8" />
-*
-*<img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/ccc7d8b9-3764-4563-907a-c6d11e10dfc4" />
 *
 
 ---
